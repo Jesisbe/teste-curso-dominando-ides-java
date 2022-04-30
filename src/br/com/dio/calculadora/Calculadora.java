@@ -20,7 +20,7 @@ public class Calculadora {
 		int divisao = divisao(a,b);
 		
 		System.out.println("soma " + soma);
-		System.out.println("Sub " + subtracao );
+		System.out.println("sub " + subtracao );
 		System.out.println("mult " + multiplicacao);
 		System.out.println("div " + divisao);
 	}
